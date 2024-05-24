@@ -88,4 +88,4 @@ This project is licensed under the MIT License.
 
 ## **References**
 
-[LICENSE](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10126698/)
+[National Library of Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10126698/)
