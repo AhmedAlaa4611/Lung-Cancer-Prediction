@@ -26,7 +26,7 @@ The goal of this project is to develop a machine learning model that can predict
 
 - Python 3.6 or higher
 - Jupyter Notebook
-- Required Python packages (listed in `requirements.txt`)
+- Required Python packages `pandas matplotlib seaborn scikit-learn`
 
 ## **Installation**
 
@@ -38,7 +38,11 @@ The goal of this project is to develop a machine learning model that can predict
 
 2. Install the required packages:
     ```sh
-    pip install -r requirements.txt
+    pip install pandas
+    pip install matplotlib
+    pip install seaborn
+    pip install scikit-learn
+
     ```
 
 3. Start Jupyter Notebook:
